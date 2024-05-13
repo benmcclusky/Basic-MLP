@@ -1,2 +1,2 @@
 # Basic-MLP
-Manually built own version of MLP, including core functionality for training including loss functions, activation functions and initialisation functions. 
+Manually built a working Neural Network using only NumPy, includes basic core functionality for training and inference
